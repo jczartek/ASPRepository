@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Concrete
 {
-    class ProductRepository : BaseRepository, IProductRepository
+    public class ProductRepository : BaseRepository, IProductRepository
     {
         public async Task<bool> DeleteAsync(Product product)
         {
