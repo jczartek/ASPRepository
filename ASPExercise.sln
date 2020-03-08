@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{117FD29F-752A-414D-A149-E4556A16F9D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNET", "ASPNET\ASPNET.csproj", "{AAD5B520-73F4-4D45-A07D-D966E7CF0308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{117FD29F-752A-414D-A149-E4556A16F9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117FD29F-752A-414D-A149-E4556A16F9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117FD29F-752A-414D-A149-E4556A16F9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD5B520-73F4-4D45-A07D-D966E7CF0308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD5B520-73F4-4D45-A07D-D966E7CF0308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD5B520-73F4-4D45-A07D-D966E7CF0308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD5B520-73F4-4D45-A07D-D966E7CF0308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
